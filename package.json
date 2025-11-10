@@ -1,6 +1,6 @@
 {
   "name": "@hmphu/n8n-nodes-google-photos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "N8N node to connect to Google Photos",
   "keywords": [
     "n8n-community-node-package"
